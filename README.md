@@ -2,7 +2,7 @@
 一个高性能的SourceGuardian、IonCube等领先的PHP加密工具。
 
 # 官网
-php.covibe.cn
+php.x5.chat
 
 # 加密方式
 SourceGuardian 14
